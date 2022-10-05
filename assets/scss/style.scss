@@ -1,0 +1,48 @@
+body{
+    margin:20px;
+    font-family: 'Inter Tight', sans-serif;
+    text-align: center;
+    background-color: #f5f5f7;
+}
+
+section{
+    height: 92vh;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: (url(https://www.apple.com/v/airpods/s/images/overview/airpods_3rd_gen__dhy5bknhvtqq_medium.jpg));
+    background-position: center;
+    background-repeat: no-repeat;
+
+    h1{
+     font-size: 100px;
+     font-weight: 500;
+     margin: 0;
+     padding: 0;
+    }
+
+    
+}
+
+.btn{
+    font-family: 'DM Sans', sans-serif;
+    color: white;
+    background-color: #2a71e3;
+    box-sizing: border-box;
+    padding: 12px 20px;
+    border:none;
+    font-size: 17px;
+    font-weight: 100;
+    border-radius: 50px;
+}
+
+.more{
+    color:  #2a71e3;
+    background-color:  #2a71e300;
+    box-sizing: border-box;
+    padding: 12px 20px;
+    border:none;
+    font-size: 17px;
+    font-weight: 100;
+}
